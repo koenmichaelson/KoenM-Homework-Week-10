@@ -1,6 +1,6 @@
 #include <iostream>
 #include <sstream>
-#include "LinkedList.h"
+#include "LinkedList.cpp"
 
 // Helper functions for testing
 template <typename T>
